@@ -6,3 +6,4 @@
 * [Homework 1. Игра: Угадай число менее чем за 20 попыток] https://github.com/PiVania/Pis_Git/tree/main/project%201
 * [Проект Визуализация. Практика визуализации данных] https://github.com/PiVania/Pis_Git/tree/main/project_visualisation
 * [Project 1. Исследование данных hh.ru] https://github.com/PiVania/Pis_Git/tree/main/project%201
+* [Project 2. Анализ вакансий hh.ru] https://github.com/PiVania/Pis_Git/tree/main/project%202
